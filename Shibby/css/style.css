@@ -1,0 +1,116 @@
+body{
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 2000px;
+
+}
+
+#container{
+  background-image: url(../Assets/nacho_vs__shibby_by_punkrockhomicide.png);
+
+}
+
+
+
+a, li, ul{
+  float:right;
+  text-decoration: none;
+  text-decoration-style: none;
+  list-style: none;
+  padding-top: 0;
+  margin-top: 0;
+  padding: 8px;
+  font-family: 'Metamorphous', cursive;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+header{
+padding-left: 18px;
+padding-bottom: -45px;
+height: 80px;
+
+.transparent-style{
+  background-color: #0000ffff;
+    opacity: .4;
+
+}
+
+div {
+    background: rgba(76, 175, 80, 0.3) /* Green background with 30% opacity */
+}
+
+
+
+
+
+}
+
+#kicker{
+  text-align: center;
+  font-family: 'Metamorphous', cursive;
+  font-size: 40px;
+  padding-bottom: -160px;
+
+}
+div {
+    text-align: justify;
+text-decoration-color: #AED6F1
+}
+
+#tesla1{
+text-align: center;
+padding-right: 2 2
+height: 150px;
+font-family: 'Keania One', cursive;
+font-size: 125px;
+color: color: HEX
+#AED6F1
+
+
+
+
+
+}
+h1{
+  text-
+  color: HEX
+ #AED6F1
+RGB
+ 174, 214, 241
+HSL
+ 204, 70%, 81%
+}
+
+
+
+#tesla{
+text-align: center;
+height: 400px;
+font-family: 'Keania One', cursive;
+font-size: 45px;
+padding: 0 0;
+padding-top: 5 0;
+font-weight: 400;
+}
+#tesla2{
+text-align: center;
+height: 400px;
+font-family: 'Keania One', cursive;
+font-size: 45px;
+padding: 0 0;
+padding-top: 5 0;
+font-weight: 400;
+margin-top: 300px;
+}
+
+
+footer{
+  text-align: center;
+  font-family: 'Metamorphous', cursive;
+  font-size: 30px;
+  padding-bottom: -160px;
+
+
+}
